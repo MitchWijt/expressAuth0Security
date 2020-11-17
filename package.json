@@ -1,0 +1,24 @@
+{
+  "name": "expressauth0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MitchWijt/expressAuth0Security.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MitchWijt/expressAuth0Security/issues"
+  },
+  "homepage": "https://github.com/MitchWijt/expressAuth0Security#readme",
+  "dependencies": {
+    "express-jwt": "^6.0.0",
+    "express-jwt-authz": "^2.4.1",
+    "jwks-rsa": "^1.11.0"
+  }
+}
